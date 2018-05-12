@@ -1,0 +1,48 @@
+_repo: The-Silent-House_19069
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 19069-h/images/cover_tb.jpg
+creator:
+  author:
+    agent_name: Hume, Fergus
+    aliases:
+    - Hume, Ferguson Wright
+    - Hume, Fergus W. (Ferguson Wright)
+    birthdate: 1859
+    deathdate: 1932
+    gutenberg_agent_id: '1057'
+    url: http://www.gutenberg.org/2009/agents/1057
+    wikipedia: http://en.wikipedia.org/wiki/Fergus_Hume
+description: Lucian Denzil was a briefless barrister, who so far departed from the
+  traditions of his brethren of the long robe as not to dwell within the purlieus
+  of the Temple. For certain private reasons, not unconnected with economy, he occupied
+  rooms in Geneva Square, Pimlico; and, for the purposes of his profession, repaired
+  daily, from ten to four, to Serjeant's Inn, where he shared an office with a friend
+  equally briefless and poor. This state of things sounds hardly enviable, but Lucian,
+  being young and independent to the extent of L300 a year, was not dissatisfied with
+  his position. As his age was only twenty-five, there was ample time, he thought,
+  to succeed in his profession; and, pending that desirable consummation, he cultivated
+  the muses on a little oatmeal, after the fashion of his kind. There have been lives
+  less happily circumstanced. Geneva Square was a kind of backwater of the great river
+  of town life which swept past its entrance with speed and clamour without disturbing
+  the peace within. One long, narrow street led from a roaring thoroughfare into a
+  silent quadrangle of tall grey houses, occupied by lodging-house keepers, city clerks
+  and two or three artists, who represented the Bohemian element of the place. In
+  the centre there was an oasis of green lawn.
+gutenberg_issued: '2006-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19069'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Murder -- Fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PR'
+- !lcsh 'Pimlico (London, England) -- Fiction'
+- !lcsh 'Murder -- Investigation -- Fiction'
+title: The Silent House
+url: http://www.gutenberg.org/ebooks/19069
